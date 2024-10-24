@@ -1,0 +1,82 @@
+[
+    {
+      "playerId": 1,
+      "name": "Travis Head",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/X58XPV9/Whats-App-Image-2024-04-27-at-14-07-52.webp",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$1.6 million"
+    },
+    {
+      "playerId": 2,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/yQwzVVS/Collage-Maker-24-Oct-2023-07-28-PM-3935.jpg",
+      "role": "Wicketkeeper-batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "$1.8 million"
+    },
+    {
+      "playerId": 3,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/LvdLrdC/d973a-17150616187538-1920.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$2.5 million"
+    },
+    {
+      "playerId": 4,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://i.ibb.co.com/jLhxgKR/4a655b514a0538cc8b0bb6e7b1cabefe-Y29ud-GVud-HNl-YXJja-GFwa-Swx-Nj-Y4-Mz-E5-MTg5-2-69703789.jpg",
+      "role": "Wicketkeeper-batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "$1.7 million"
+    },
+    {
+      "playerId": 5,
+      "name": "Suryakumar Yadav",
+      "country": "India",
+      "image": "https://i.ibb.co.com/jZ2T0tx/suryakumar-yadav-birthday-2024-09-b5eb0afb9d306f5271ae30ba7ae8d76f-3x2.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$1.5 million"
+    },
+    {
+      "playerId": 6,
+      "name": "Hardik Pandya",
+      "country": "India",
+      "image": "https://i.ibb.co.com/RjycQj2/CRI-SPO-USA-V-INDIA-ICC-MEN-S-T20-CRICKET-WORLD-CU-1718284515747-1718284516125.webp",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": "$2.4 million"
+    },
+    {
+      "playerId": 7,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/b66fgGq/07-699f9620f4254f2e9aae0f8fe9e580ab.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$2.1 million"
+    },
+    {
+      "playerId": 8,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/fGzct7F/26184210181bb48.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "$2.3 million"
+    }
+  ]
