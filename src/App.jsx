@@ -1,9 +1,16 @@
+import Banner from "./assets/components/Header/Banner/Banner";
+import Header from "./assets/components/Header/Header";
 
 
 const App = () => {
   return (
     <div>
-      <h1>App.jsx</h1>
+      {/* Header */}
+      <Header></Header>
+      {/* Banner */}
+      <Banner></Banner>
+      {/* Main */}
+      {/* Footer */}
     </div>
   );
 };
