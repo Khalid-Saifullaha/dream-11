@@ -78,5 +78,75 @@
       "battingType": "Right-hand bat",
       "bowlingType": "Right-arm legbreak",
       "biddingPrice": "$2.3 million"
+    },
+    {
+      "playerId": 9,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/t25zSgr/david-warner-captaincy-ban-1729831281.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "$1.6 million"
+    },
+    {
+      "playerId": 10,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/Czqh2Yy/Andre-Russell-Reuters-640.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "$2.5 million"
+    },
+    {
+      "playerId": 11,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/TtFF6RQ/trent-boalt.webp",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": "$1.5 million"
+    },
+    {
+      "playerId": 12,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/yf1BhsH/Kane-Williamson.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$1.8 million"
+    },
+    {
+      "playerId": 13,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/HpjW8hL/1681725317939.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "$2 million"
+    },
+    {
+      "playerId": 14,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/mtwdtXd/16-2312191615.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": "$1.2 million"
+    },
+    {
+      "playerId": 15,
+      "name": "Faf du Plessis",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/x8TN9vX/desktop-wallpaper-faf-du-plessis-has-urged-his-players-to-get-south-africa-faf-du-plessis-world-cup.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "$1.4 million"
     }
   ]

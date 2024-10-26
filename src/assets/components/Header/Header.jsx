@@ -1,9 +1,9 @@
 import logo from '../../asset/logo.png'
 const Header = () => {
     return (
-            <div className='w-10/12 mx-auto flex justify-between items-center p-8 border-b'>
+            <div className='w-10/12 mx-auto flex justify-between items-center flex-col md:flex-row p-8 border-b sticky top-0 z-50 bg-white'>
             <img src={logo} alt="" />
-            <ul className='flex gap-8 items-center text-2xl font-semibold '>
+            <ul className='flex  gap-8 items-center text-2xl font-semibold '>
                 <li>
                     <a href="">Fixture</a>
                 </li>

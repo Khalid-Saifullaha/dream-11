@@ -1,8 +1,38 @@
-# React + Vite
+# Project Title :
+BPL Dream 11
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## About the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a Cricket player selected website.You can choose and buy your favorite player.
+
+
+##  Features of the project
+
+This project is used by the following companies:
+
+- Click on the  "Choose player" button will selected.
+- Click on the  "Choose player" button will see you selected Player number.
+- Click on the  "Choose Available" button will see you all player.
+
+
+
+## 🛠 Technologies used
+-  Javascript
+-  React
+- HTML
+- CSS
+- Tailwind CSS
+- DasiUI
+- react toastify
+
+
+
+
+## Features
+
+- Live link : 
+
+## Feedback
+
+If you have any feedback, please reach out to me at khalidsaifullaha3@gmail.com
