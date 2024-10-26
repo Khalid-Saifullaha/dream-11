@@ -15,7 +15,7 @@ const App = () => {
     cart: true,
     status:"cart"
   });
-  const [freeCoin, setFreeCoin] = useState(0)
+  const [ setFreeCoin] = useState(0)
 
   const notify = () => toast.success("Congrates!! He is add your squad"); 
   
@@ -34,7 +34,7 @@ const App = () => {
     }
   }
 
-console.log(isActive);
+
 
 // clime free coin
 const handelAddCoin = () => {

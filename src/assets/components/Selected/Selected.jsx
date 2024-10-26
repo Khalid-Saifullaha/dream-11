@@ -1,4 +1,4 @@
-import Players from "../Players";
+
 
 const Selected = ({selected, handleIsActiveState, isActive}) => {
     return (
