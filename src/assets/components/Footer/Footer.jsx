@@ -51,6 +51,10 @@ const Footer = () => {
        </div>
   </nav>
 </footer>
+<hr />
+<div className='bg-[#06091A] flex justify-center p-6'>
+    <p className='text-xl text-white'>@2024 Your Company All Rights Reserved.</p>
+</div>
     </div>
             
             
