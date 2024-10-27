@@ -12,7 +12,7 @@ This is a Cricket player selected website.You can choose and buy your favorite p
 This project is used by the following companies:
 
 - Click on the  "Choose player" button will selected.
-- Click on the  "Choose player" button will see you selected Player number.
+- Click on the  "Selected" button will see you selected Player number.
 - Click on the  "Choose Available" button will see you all player.
 
 
