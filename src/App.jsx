@@ -1,76 +1,35 @@
+import "./App.css";
+import Navbar from "./Component/Navbar/Navbar";
+import HeroBannerImage from "./Component/Hero/HeroBannerImage";
 import { useState } from "react";
-import Banner from "./assets/components/Header/Banner/Banner";
-import Header from "./assets/components/Header/Header";
-import Players from "./assets/components/Players";
-import Selected from "./assets/components/Selected/Selected";
-// import Newsletter from "./assets/components/Newsletter/Newsletter";
-import Footer from "./assets/components/Footer/Footer";
-import {  toast } from 'react-toastify';
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import Players from "./Component/Players/Players";
+import Footer from "./Component/Footer/Footer";
 
 
 
 const App = () => {
-  const [selected, setSelected] = useState([])
-  const [isActive, setActive] = useState({
-    cart: true,
-    status:"cart"
-  });
-  const [ setFreeCoin] = useState(0)
-
-  const notify = () => toast.success("Congrates!! He is add your squad"); 
-  
-  const handleIsActiveState=(status)=>{
-    if(status == "cart"){
-      setActive({
-        cart: true,
-    status:"cart"
-      })
-    }
-    else{
-      setActive({
-        cart: false,
-    status:"about"
-      })
-    }
-  }
-
-
-
-// clime free coin
-const handelAddCoin = () => {
-  setFreeCoin(prevCount => prevCount + 500000);
-
-}
-
-
-
-  const addChoosePlayer = player => {
-    const isExist = selected.find(previousPlayer=> previousPlayer.playerId === player.playerId)
-    if(!isExist){
-      notify()
-      setSelected([...selected, player])
-    }else{toast.error('This player already exists ')}
-
-  }
-
-  
+  const [coin, setCoin] = useState(0);
+  const handleCoinClick = () => {
+    setCoin((prevBalance) => prevBalance + 5000000);
+    toast.success("You’ve successfully claimed 5000000 coins!");
+  };
 
   return (
-    <div>
-      {/* Header */}
-      <Header handelAddCoin ={handelAddCoin}></Header>
-      {/* Banner */}
-      <Banner></Banner>
-   <div className="">
-      {/* Players */}
-      <Selected selected={selected} isActive={isActive} handleIsActiveState={handleIsActiveState}></Selected>
-  <Players addChoosePlayer={addChoosePlayer} ></Players>
-      {/* selected */}
-   </div>
-   {/* <Newsletter></Newsletter> */}
-      {/* Footer */}
-      <Footer></Footer>
-    </div>
+    <>
+      <header className="lg:px-24 container mx-auto">
+        <Navbar coin={coin} />
+      </header>
+      <main className="lg:px-24 container mx-auto">
+        <ToastContainer />
+        <HeroBannerImage handleCoinClick={handleCoinClick} />
+        <Players coin={coin} setCoin={setCoin} />
+      </main>
+      <footer className="bg-neutral mt-[17rem]">
+        <Footer />
+      </footer>
+    </>
   );
 };
 

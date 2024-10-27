@@ -1,0 +1,153 @@
+[
+  {
+    "playerId": 1,
+    "name": "Travis Head",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/X58XPV9/Whats-App-Image-2024-04-27-at-14-07-52.webp",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1900000
+  },
+    {
+      "playerId": 2,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/LvdLrdC/d973a-17150616187538-1920.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 1800000
+    },
+    {
+      "playerId": 3,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/t25zSgr/david-warner-captaincy-ban-1729831281.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/yf1BhsH/Kane-Williamson.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 5,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/fGzct7F/26184210181bb48.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 1300000
+    },
+    {
+      "playerId": 6,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/QQXdjkf/ben-stokes-struck-a-match-winning-52-in-the-t20-world-cup-final.webp",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 1900000
+    },
+    {
+      "playerId": 7,
+      "name": "Hardik Pandya",
+      "country": "India",
+      "image": "https://i.ibb.co.com/RjycQj2/CRI-SPO-USA-V-INDIA-ICC-MEN-S-T20-CRICKET-WORLD-CU-1718284515747-1718284516125.webp",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 1400000
+    },
+    {
+      "playerId": 8,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/TtFF6RQ/trent-boalt.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 9,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/HpjW8hL/1681725317939.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 10,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/mtwdtXd/16-2312191615.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 11,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/yQwzVVS/Collage-Maker-24-Oct-2023-07-28-PM-3935.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 1400000
+    },
+    {
+      "playerId": 12,
+      "name": "Faf du Plessis",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/x8TN9vX/desktop-wallpaper-faf-du-plessis-has-urged-his-players-to-get-south-africa-faf-du-plessis-world-cup.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 1800000
+    },
+    {
+      "playerId": 13,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/Czqh2Yy/Andre-Russell-Reuters-640.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 1750000
+    },
+    {
+      "playerId": 14,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/b66fgGq/07-699f9620f4254f2e9aae0f8fe9e580ab.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 15,
+      "name": "Suryakumar Yadav",
+      "country": "India",
+      "image": "https://i.ibb.co.com/jZ2T0tx/suryakumar-yadav-birthday-2024-09-b5eb0afb9d306f5271ae30ba7ae8d76f-3x2.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1500000
+    }
+  ]
+  

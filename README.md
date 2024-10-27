@@ -31,7 +31,7 @@ This project is used by the following companies:
 
 ## Features
 
-- Live link : https://puffy-floor.surge.sh
+- Live link : https://irritating-bean.surge.sh
 
 ## Feedback
 
